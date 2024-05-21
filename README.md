@@ -9,7 +9,7 @@
 
 All progress - including 180 degree project shifts, intensive EDA, and markdown commentary - can be seen in the 'notebooks'.
 
-Thorough report and presentation are in the works! Check back soon for updates.
+Thorough report and presentation are now viewable in the 'reports'. I will update this README soon with a table of contents and visual pizazz to keep you interested in this project.
 
  Please email me if you have any questions or would like to collaborate on future projects.
 
