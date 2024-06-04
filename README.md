@@ -1,6 +1,6 @@
 # Executive Summary
 
-This is an end-to-end project using real world data from the Global Terrorism Database. The deliverable is an interactive dashboard that allows the user to quickly see the most probable targets and forms of attack given a certain motive or societal circumstance, and it comes with a bonus Tableau Dashboard that I created to enhance the Exploratory Data Analysis process (if you know EDA, you know it could use some enhancing...). 
+This is an end-to-end project in Python using real world data from the Global Terrorism Database. The deliverable is an interactive dashboard that allows the user to quickly see the most probable targets and forms of attack given a certain motive or societal circumstance, and it comes with a bonus Tableau Dashboard that I created to enhance the Exploratory Data Analysis process (if you know EDA, you know it could use some enhancing...). 
  
 The dashboard relies on an NLP model built on Microsoft's LightGBM binary classification algorithm. If that doesn't mean much to you, it's an extremely efficient means of making complex predictions based on hundreds of thousands of language-based features. All progress - including 180 degree project shifts, intensive EDA, and markdown commentary - can be seen in the [notebooks](https://github.com/samcast1/Capstone-2---Global-Terrorism/tree/main/notebooks).
 
